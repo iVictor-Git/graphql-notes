@@ -2,7 +2,7 @@
 
 ## Fields
 
-What are fields? In the below example, `name` is a field
+What are fields? In the below example, `name` is a field in our `hero` query
 
 ```js
 {
@@ -24,7 +24,7 @@ The return data you would get with this GraphQL query above is
 }
 ```
 
-What we did here was ask for the `name` of the `hero`, which returned a `String`. Fields can also refer to `Objects`, see below:
+What we did here was ask for the `name` of the `hero` query, which returned a `String`. Fields can also refer to `Objects`, see below:
 
 ```js
 {
