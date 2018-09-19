@@ -54,7 +54,7 @@ The result from the previous query:
 }
 ```
 
-That concludes this section. [next][next].
+That concludes this section, [next][next].
 
 [previous]: ./fields.md
 [types]: #
