@@ -4,9 +4,9 @@ The notes and examples were taken from the graphql docs [here][docs]
 
 You can start [here][fields] or you can choose one of the following topics below
 
-## [Fields][fields]
+### [Fields][fields]
 
-## [Arguments][arguments]
+### [Arguments][arguments]
 
 [fields]: ./fields.md
 [arguments]: ./arguments.md
