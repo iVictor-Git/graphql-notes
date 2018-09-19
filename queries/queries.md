@@ -8,6 +8,9 @@ You can start [here][fields] or you can choose one of the following topics below
 
 ### [Arguments][arguments]
 
+### [Alias][alias]
+
 [fields]: ./fields.md
 [arguments]: ./arguments.md
+[alias]: ./alias.md
 [docs]: http://graphql.github.io/learn/queries/
