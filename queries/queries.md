@@ -6,13 +6,10 @@ You can start [here][fields] or you can choose one of the following topics below
 
 ## Table of Contents
 
-1.  ### [Fields][fields]
-
-2.  ### [Arguments][arguments]
-
-3.  ### [Alias][alias]
-
-4.  ### [Fragments][fragments]
+- ### [Fields][fields]
+- ### [Arguments][arguments]
+- ### [Alias][alias]
+- ### [Fragments][fragments]
 
 [fields]: ./fields.md
 [arguments]: ./arguments.md
