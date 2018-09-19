@@ -52,4 +52,4 @@ That concludes this section, [next][next].
 
 [previous]: ./variables.md
 [docs]: http://graphql.github.io/learn/queries/#directives
-[next]: ./mutations.md
+[next]: ./inline-fragments.md
