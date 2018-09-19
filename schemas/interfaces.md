@@ -83,4 +83,4 @@ That concludes this section, [next][next].
 
 [previous]: ./list-and-non-nulls.md
 [inline-fragments]: ../queries/inline-fragments.md
-[next]: #
+[next]: ./union-types.md
