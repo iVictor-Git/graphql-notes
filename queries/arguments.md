@@ -1,4 +1,4 @@
-##### [previous](./fields.md)
+##### [previous][fields]
 
 ## Arguments
 
@@ -25,3 +25,7 @@ in which we get:
   }
 }
 ```
+
+The argument we supplied is `"1000"` to `id`
+
+[fields]: ./fields.md

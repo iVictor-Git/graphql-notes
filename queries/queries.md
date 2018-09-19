@@ -1,9 +1,13 @@
 # GraphQL queries
 
-The notes and examples were taken from the graphql docs [here](http://graphql.github.io/learn/queries/)
+The notes and examples were taken from the graphql docs [here][docs]
 
-You can start [here](./fields.md) or you can choose one of the following topics below
+You can start [here][fields] or you can choose one of the following topics below
 
-## [Fields](./fields.md)
+## [Fields][fields]
 
-## [Arguments](./arguments.md)
+## [Arguments][arguments]
+
+[fields]: ./fields.md
+[arguments]: ./arguments.md
+[docs]: http://graphql.github.io/learn/queries/
