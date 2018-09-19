@@ -1,4 +1,4 @@
-##### [previous][queries]
+##### [previous][previous]
 
 ## Fields
 
@@ -63,4 +63,7 @@ the resulting data would be:
 
 This is great, because now we can just fetch related data in one single query instead of making multiple requests compared to a classic REST architechture.
 
-[queries]: ./queries.md
+That concludes this section. [next][next].
+
+[previous]: ./queries.md
+[next]: ./arguments.md

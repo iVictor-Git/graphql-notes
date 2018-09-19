@@ -1,4 +1,4 @@
-##### [previous][fields]
+##### [previous][previous]
 
 ## Arguments
 
@@ -54,6 +54,9 @@ The result from the previous query:
 }
 ```
 
-[fields]: ./fields.md
+That concludes this section. [next][next].
+
+[previous]: ./fields.md
 [types]: #
 [typesdoc]: http://graphql.github.io/learn/schema
+[next]: ./alias.md
