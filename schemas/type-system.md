@@ -40,5 +40,5 @@ Every GraphQL service defines a set of types which completely describe the set o
 
 That concludes this section, [next][next].
 
-[previous]: ./schemas-and-types.md
+[previous]: ./README.md
 [next]: ./type-language.md

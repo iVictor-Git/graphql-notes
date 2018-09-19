@@ -65,5 +65,5 @@ This is great, because now we can just fetch related data in one single query in
 
 That concludes this section, [next][next].
 
-[previous]: ./queries.md
+[previous]: ./README.md
 [next]: ./arguments.md
